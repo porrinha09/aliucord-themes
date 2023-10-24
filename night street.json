@@ -2,7 +2,8 @@
     "manifest": {
         "author": "weszin3",
         "version": "1.0.0",
-        "name": "night street"
+        "name": "night street",
+        "updater": "https:\/\/raw.githubusercontent.com\/porrinha09\/aliucord-themes\/main\/night%20street.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1166237603801075732\/4d8d3dc80bace9161a30621ac7b43f87.jpg?ex=6549c26"
