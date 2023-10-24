@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "author": "weszin3",
+        "version": "1.0.0",
+        "name": "night street"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1166237603801075732\/4d8d3dc80bace9161a30621ac7b43f87.jpg?ex=6549c26"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 1610612736,
+        "background_secondary": 0,
+        "active_channel": -1719619841,
+        "mention_highlight": 36351
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
