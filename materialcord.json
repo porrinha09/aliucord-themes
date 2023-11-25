@@ -2,7 +2,8 @@
     "manifest": {
         "author": "weszin3",
         "name": "Materialcord",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/porrinha09\/aliucord-themes\/main\/materialcord.json"
     },
     "background": {},
     "fonts": {},
