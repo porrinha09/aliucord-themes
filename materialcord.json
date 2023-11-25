@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "author": "weszin3",
+        "name": "Materialcord",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": -15199463,
+        "background_secondary": -14082265,
+        "background": -14804705,
+        "active_channel": -11516846,
+        "mention_highlight": 13820917,
+        "accent": -860943
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
