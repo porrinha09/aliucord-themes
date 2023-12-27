@@ -2,7 +2,8 @@
     "manifest": {
         "author": "weszin3",
         "version": "1.0.0",
-        "name": "VibeAnime"
+        "name": "VibeAnime",
+        "updater": "https:\/\/raw.githubusercontent.com\/porrinha09\/aliucord-themes\/main\/VibeAnime.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1188838245052715171\/desconhecido.jpeg?ex=659bfae5&is=658985e5&hm=4b"
