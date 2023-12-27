@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "weszin3",
+        "version": "1.0.0",
+        "name": "VibeAnime"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1188838245052715171\/desconhecido.jpeg?ex=659bfae5&is=658985e5&hm=4b"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 1224736768,
+        "background": 436207616,
+        "mention_highlight": 215213053,
+        "active_channel": 708588774,
+        "accent": -16740609
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
