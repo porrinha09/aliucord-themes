@@ -2,7 +2,8 @@
     "manifest": {
         "author": "weszin3",
         "name": "Frosted Glass",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1190324135381966898\/IMG_20231229_130301.jpg?ex=65a162bd&is=658eedbd"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1190324135381966898\/IMG_20231229_130301.jpg?ex=65a162bd&is=658eedbd"
