@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "weszin3",
+        "name": "Frosted Glass",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1150242914211987616\/1190324135381966898\/IMG_20231229_130301.jpg?ex=65a162bd&is=658eedbd"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 452984832,
+        "background": 570425344,
+        "accent": -10469457,
+        "active_channel": -2107621457,
+        "mention_highlight": 302008314
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
