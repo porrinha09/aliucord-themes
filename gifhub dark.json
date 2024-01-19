@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "author": "weszin3",
+        "name": "gifhub dark",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -16184304,
+        "background_secondary": -15920873,
+        "accent": -15655634,
+        "active_channel": -15262686
+    },
+    "colors": {
+        "link": -10967297
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
